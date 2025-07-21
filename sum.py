@@ -1,5 +1,5 @@
 
-a = 10
+a = 20
 b = 10
 
-print("Sum of a and b",a+b)
+print("Substruction of a and b",a-b)
